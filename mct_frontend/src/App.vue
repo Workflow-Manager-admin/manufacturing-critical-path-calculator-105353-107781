@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { RouterView } from 'vue-router'
-import AppSidebar from '@/components/AppSidebar.vue'
+/* import AppSidebar from './components/AppSidebar.vue' */
+// NOTE: AppSidebar.vue does not exist in the components folder; import is commented out to prevent errors.
 import { ref, type Component } from 'vue'
 import ModalDialog from './components/ModalDialog.vue'
 
