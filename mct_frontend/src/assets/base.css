@@ -19,6 +19,16 @@
   --vt-c-text-light-2: rgba(60, 60, 60, 0.66);
   --vt-c-text-dark-1: var(--vt-c-white);
   --vt-c-text-dark-2: rgba(235, 235, 235, 0.64);
+
+  /* Material Design palette */
+  --color-primary: #9420f3;
+  --color-secondary: #ff4405;
+  --color-accent: #787d78;
+  --color-md-fab: #eee5fd;
+  --color-md-hover: #f6f0fb;
+  --color-md-sidebar: #f6f0fb;
+  --color-md-card: #fff;
+  --color-md-card-border: #e4dafc;
 }
 
 /* semantic color variables for this project */
@@ -30,8 +40,8 @@
   --color-border: var(--vt-c-divider-light-2);
   --color-border-hover: var(--vt-c-divider-light-1);
 
-  --color-heading: var(--vt-c-text-light-1);
-  --color-text: var(--vt-c-text-light-1);
+  --color-heading: var(--vt-c-indigo);
+  --color-text: var(--vt-c-indigo);
 
   --section-gap: 160px;
 }
